@@ -9,7 +9,7 @@ import {
   rem,
 } from "@mantine/core";
 import { Carousel } from "@mantine/carousel";
-import { AiOutlineStar, AiFillStar } from "react-icons/ai";
+import { AiOutlineStar } from "react-icons/ai";
 import { ICatalog } from "@/interfaces";
 import _ from "lodash";
 
