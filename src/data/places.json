@@ -1,0 +1,131 @@
+[
+  {
+    "name": "Miami, Florida",
+    "images": [
+      "https://images.pexels.com/photos/12700527/pexels-photo-12700527.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "https://images.pexels.com/photos/1168764/pexels-photo-1168764.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "https://images.pexels.com/photos/1179156/pexels-photo-1179156.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "https://images.pexels.com/photos/1172524/pexels-photo-1172524.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+    ],
+    "discount": 0,
+    "tax": 0,
+    "price": 176,
+    "km_away": 93,
+    "ratings": 0,
+    "ratings_length": 0,
+    "tags": ["residential"],
+    "payment_type": "night",
+    "is_resort": false
+  },
+  {
+    "name": "Vaitape, French Polynesia",
+    "cover": "",
+    "images": [
+      "https://images.pexels.com/photos/1167021/pexels-photo-1167021.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "https://images.pexels.com/photos/1168764/pexels-photo-1168764.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "https://images.pexels.com/photos/1179156/pexels-photo-1179156.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "https://images.pexels.com/photos/1172524/pexels-photo-1172524.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+    ],
+    "discount": 0,
+    "tax": 0,
+    "price": 182,
+    "km_away": 80,
+    "ratings": 0,
+    "ratings_length": 0,
+    "tags": ["resort"],
+    "payment_type": "night"
+  },
+  {
+    "name": "Seattle, Washington",
+    "cover": "",
+    "images": [
+      "https://images.pexels.com/photos/189296/pexels-photo-189296.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "https://images.pexels.com/photos/133920/pexels-photo-133920.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+    ],
+    "discount": 0,
+    "tax": 0,
+    "price": 190,
+    "km_away": 105
+  },
+  {
+    "name": "New Orleans, Louisiana",
+    "cover": "",
+    "images": [
+      "https://images.pexels.com/photos/1134178/pexels-photo-1134178.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "https://images.pexels.com/photos/1134176/pexels-photo-1134176.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "https://images.pexels.com/photos/1134175/pexels-photo-1134175.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "https://images.pexels.com/photos/1134177/pexels-photo-1134177.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+    ],
+    "discount": 0,
+    "tax": 0,
+    "price": 161,
+    "km_away": 89
+  },
+  {
+    "name": "Denver, Colorado",
+    "cover": "",
+    "images": [
+      "https://images.pexels.com/photos/2220156/pexels-photo-2220156.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "https://images.pexels.com/photos/2220159/pexels-photo-2220159.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "https://images.pexels.com/photos/2220152/pexels-photo-2220152.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "https://images.pexels.com/photos/2220155/pexels-photo-2220155.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+    ],
+    "discount": 0,
+    "tax": 0,
+    "price": 178,
+    "km_away": 100
+  },
+  {
+    "name": "San Francisco, California",
+    "cover": "",
+    "images": [
+      "https://images.pexels.com/photos/2220138/pexels-photo-2220138.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "https://images.pexels.com/photos/2220140/pexels-photo-2220140.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "https://images.pexels.com/photos/2220142/pexels-photo-2220142.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+    ],
+    "discount": 0,
+    "tax": 0,
+    "price": 168,
+    "km_away": 78
+  },
+  {
+    "name": "Nashville, Tennessee",
+    "cover": "",
+    "images": [
+      "https://images.pexels.com/photos/879010/pexels-photo-879010.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "https://images.pexels.com/photos/878993/pexels-photo-878993.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "https://images.pexels.com/photos/878989/pexels-photo-878989.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+    ],
+    "discount": 0,
+    "tax": 0,
+    "price": 195,
+    "km_away": 102
+  },
+  {
+    "name": "Chicago, Illinois",
+    "cover": "",
+    "images": [
+      "https://images.pexels.com/photos/15883403/pexels-photo-15883403/free-photo-of-tropical-beach-and-pier-at-sunset.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "https://images.pexels.com/photos/15031963/pexels-photo-15031963/free-photo-of-fishing-nature-beach-sunglasses.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "https://images.pexels.com/photos/15883404/pexels-photo-15883404/free-photo-of-aerial-view-of-island-shore-by-turquoise-sea.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "https://images.pexels.com/photos/15923411/pexels-photo-15923411/free-photo-of-tropical-village-with-beach.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+    ],
+    "discount": 0,
+    "tax": 0,
+    "price": 184,
+    "km_away": 84
+  },
+  {
+    "name": "Austin, Texas",
+    "cover": "",
+    "images": [
+      "https://images.pexels.com/photos/13291077/pexels-photo-13291077.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "https://images.pexels.com/photos/12858507/pexels-photo-12858507.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "https://images.pexels.com/photos/12858466/pexels-photo-12858466.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+    ],
+    "discount": 0,
+    "tax": 0,
+    "price": 184,
+    "km_away": 110
+  }
+]
